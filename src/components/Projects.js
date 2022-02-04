@@ -1,5 +1,7 @@
-function Projects () {
+import React from 'react';
 
+export default function Projects() {
+    return (
+        <h1>Testing</h1>
+    )
 };
-
-export default Projects;
