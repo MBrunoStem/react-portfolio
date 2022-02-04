@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.9eedd829.css",
+    "main.js": "/react-portfolio/static/js/main.e529d4a2.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/desk-planner2.jpeg": "/react-portfolio/static/media/desk-planner2.298cf04b447455462d69.jpeg",
+    "static/media/portfolio-image-2.jpeg": "/react-portfolio/static/media/portfolio-image-2.2e20b22a57baf2b9cac5.jpeg",
+    "static/media/portfolio-image-4.jpeg": "/react-portfolio/static/media/portfolio-image-4.8ef7c57db8ebe45e64ce.jpeg",
+    "static/media/portfolio-image-3.jpeg": "/react-portfolio/static/media/portfolio-image-3.670756f41cf439e4b801.jpeg",
+    "static/media/portfolio-image-5.jpeg": "/react-portfolio/static/media/portfolio-image-5.903badd0d9092b35da8e.jpeg",
+    "index.html": "/react-portfolio/index.html",
+    "main.9eedd829.css.map": "/react-portfolio/static/css/main.9eedd829.css.map",
+    "main.e529d4a2.js.map": "/react-portfolio/static/js/main.e529d4a2.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9eedd829.css",
+    "static/js/main.e529d4a2.js"
+  ]
+}
